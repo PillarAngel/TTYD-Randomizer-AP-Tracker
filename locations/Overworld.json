@@ -1694,6 +1694,30 @@
                         "visibility_rules": [""],
                         "access_rules": ["$pit"],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Goomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Paragoomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Spiky Goomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
                     }
                 ],
                 "map_locations": [
@@ -2306,6 +2330,14 @@
                         "visibility_rules": [""],
                         "access_rules": ["$yoshi,Flurrie,SuperHammer"],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Goomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
                     }
 		],
                 "map_locations": [
@@ -2582,6 +2614,30 @@
                         "visibility_rules": [""],
                         "access_rules": ["[PlaneCurse],$HRGlvl2","SuperBoots,SuperHammer"],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Goomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Paragoomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Spiky Goomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
                     }
 		],
                 "map_locations": [
@@ -2681,6 +2737,30 @@
                     },
                     {
                         "name": "Petal Meadows Sewers East Key Room - Sun Stone",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Goomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Paragoomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Spiky Goomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
                         "visibility_rules": [""],
                         "access_rules": [""],
                         "item_count": 1
@@ -2879,6 +2959,30 @@
                         "chest_opened_img": "/images/items/ClosedStar.png",
                         "visibility_rules": [""],
                         "access_rules": ["$htcastle,PaperCurse,PlaneCurse,Koops,CastleKey4","$htcastle,PaperCurse,PlaneCurse,CastleKey4,[Koops],$yoshi,Bobbery"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Goomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Paragoomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Spiky Goomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
                         "item_count": 1
                     }
 		],
@@ -4031,6 +4135,14 @@
                         "name": "Riverside Station Ultra Boots Room - Elevator Key",
                         "visibility_rules": [""],
                         "access_rules": ["UltraBoots,Flurrie,StationKey1,StationKey2,$tube"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Tattle: Goomba",
+                        "chest_unopened_img": "/images/items/Peekaboo.png",
+                        "chest_opened_img": "/images/items/PeekabooDim.png",
+                        "visibility_rules": [""],
+                        "access_rules": [""],
                         "item_count": 1
                     }
 		],

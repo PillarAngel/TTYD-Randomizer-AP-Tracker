@@ -565,5 +565,13 @@ LOCATION_MAPPING =
 	-- [78780651] = {"@Magical Map/Pit of 100 Trials Charlieton - Mushroom"},
 	-- [78780652] = {"@Magical Map/Pit of 100 Trials Charlieton - Super Shroom"},
 	-- [78780653] = {"@Magical Map/Pit of 100 Trials Charlieton - Thunder Rage"},
-	[78780805] = {"@Magical Map/Creepy Steeple/Creepy Steeple Back Stairs - Star Piece"}
+	[78780805] = {"@Magical Map/Creepy Steeple/Creepy Steeple Back Stairs - Star Piece"},
+
+	--Magical Map checks
+	[78780850] = {"@Magical Map/Rogueport Sewers East/Tattle: Goomba"},
+	[78780851] = {"@Magical Map/Rogueport Sewers East/Tattle: Paragoomba"},
+	[78780852] = {"@Magical Map/Rogueport Sewers East/Tattle: Spiky Goomba"},
+	[78780853] = {"@Magical Map/Twilight Trail/Tattle Hyper Goomba"},
+	[78780854] = {"@Magical Map/Twilight Trail/Tattle Hyper Paragoomba"},
+	[78780855] = {"@Magical Map/Twilight Trail/Tattle Hyper Spiky Goomba"}
 }
