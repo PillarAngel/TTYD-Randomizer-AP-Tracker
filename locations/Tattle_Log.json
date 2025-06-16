@@ -1,0 +1,8 @@
+[
+    {
+        "name": "Tattle Log",
+        "chest_unopened_img": "/images/items/Peekaboo.png",
+        "chest_opened_img": "/images/items/PeekabooDim.png",
+        "visibility_rules": "TattlesanityOn"
+    }
+]
