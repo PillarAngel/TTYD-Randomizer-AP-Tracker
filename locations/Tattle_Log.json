@@ -6,58 +6,609 @@
         "visibility_rules": "TattlesanityOn",
         "sections": [
             {
-                "name": "Goomba"
+                "name": "Goomba",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Paragoomba"
+                "name": "Paragoomba",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Spiky Goomba"
+                "name": "Spiky Goomba",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Hyper Goomba"
+                "name": "Hyper Goomba",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Hyper Spiky Goomba"
+                "name": "Hyper Spiky Goomba",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Gloomba"
+                "name": "Gloomba",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Paragloomba"
+                "name": "Paragloomba",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Spiky Gloomba"
+                "name": "Spiky Gloomba",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Koopa Troopa"
+                "name": "Koopa Troopa",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Paratroopa"
+                "name": "Paratroopa",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "KP Koopa"
+                "name": "KP Koopa",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "KP Paratroopa"
+                "name": "KP Paratroopa",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Shady Koopa"
+                "name": "Shady Koopa",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Shady Paratroopa"
+                "name": "Shady Paratroopa",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Dark Koopa"
+                "name": "Dark Koopa",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Dark Parakoopa"
+                "name": "Dark Parakoopa",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                "name": "Koopatrol"
+                "name": "Koopatrol",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
-                
+                "name": "Dark Koopapatrol",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Dull Bones",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Red Bones",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Dry Bones",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Dark Bones",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Hammer Bro",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Boomerang Bro",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Fire Bro",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Lakitu",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Dark Lakitu",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Spiny",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Sky-Blue Spiny",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Buzzy Beetle",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Spike Top",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Parabuzzy",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Spiky Parabuzzy",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Red Spike Top",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Magikoopa",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Red Magikoopa",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "White Magikoopa",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Green Magikoopa",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Kammy Koopa",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Bowser",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Gus",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Dark Craw",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Bandit",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Big Bandit",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Badge Bandit",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Spinia",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Spania",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Spunia",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Fuzzy",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Flower Fuzzy",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Gold Fuzzy",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Green Fuzzy",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Pokey",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Poison Pokey",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Pale Piranha",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Putrid Piranha",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Frost Piranha",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Piranha Plant",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Crazee Dayzee",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Amazy Dayzee",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Pider",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Arantula",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Swooper",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Swoopula",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Swampire",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Dark Puff",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Ruff Puff",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Ice Puff",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Poison Puff",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Boo",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Atomic Boo",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Dark Boo",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Ember",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Lava Bubble",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Phantom Ember",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Bald Cleft",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Hyper Bald Cleft",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Cleft",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Iron Clefts",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Hyper Cleft",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Moon Cleft",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Briste",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Dark Bristle",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Bob-omb",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Bulky Bob-omb",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Bob-ulk",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Chain-Chomp",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Red Chomp",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Bill Blaster",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Bullet Bill",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "B. Bill Blaster",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Bombshell Bill",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Wizzerd",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Elite Wizzerd",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Blooper",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Hooktail",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Gloomtail",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Bonetail",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Rawk Hawk",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Macho Grubba",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Doopliss",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Cortez",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Smorg",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "X-Naut",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "X-Naut PhD",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Elite X-Naut",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Yux",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Mini-Yux",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Z-Yux",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Mini-Z-Yux",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "X-Yux",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Mini-X-Yux",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Grodus X",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Magnus von Grapple",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Magnus von Grapple 2.0",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Lord Crump",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Sir Grodus",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Beldan",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Marilyn",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Vivian",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
+                "name": "Shadow Queen",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
             }
         ]
     }

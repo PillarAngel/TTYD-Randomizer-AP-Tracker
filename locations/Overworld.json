@@ -1692,6 +1692,15 @@
                         "visibility_rules": [""],
                         "access_rules": ["$pit"],
                         "item_count": 1
+                    },
+                    {
+                        "ref": "@Tattle Log/Goomba"
+                    },
+                    {
+                        "ref": "@Tattle Log/Paragoomba"
+                    },
+                    {
+                        "ref":"@Tattle Log/Spiky Goomba"
                     }
                 ],
                 "map_locations": [
