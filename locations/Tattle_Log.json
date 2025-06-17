@@ -3,6 +3,62 @@
         "name": "Tattle Log",
         "chest_unopened_img": "/images/items/Peekaboo.png",
         "chest_opened_img": "/images/items/PeekabooDim.png",
-        "visibility_rules": "TattlesanityOn"
+        "visibility_rules": "TattlesanityOn",
+        "sections": [
+            {
+                "name": "Goomba"
+            },
+            {
+                "name": "Paragoomba"
+            },
+            {
+                "name": "Spiky Goomba"
+            },
+            {
+                "name": "Hyper Goomba"
+            },
+            {
+                "name": "Hyper Spiky Goomba"
+            },
+            {
+                "name": "Gloomba"
+            },
+            {
+                "name": "Paragloomba"
+            },
+            {
+                "name": "Spiky Gloomba"
+            },
+            {
+                "name": "Koopa Troopa"
+            },
+            {
+                "name": "Paratroopa"
+            },
+            {
+                "name": "KP Koopa"
+            },
+            {
+                "name": "KP Paratroopa"
+            },
+            {
+                "name": "Shady Koopa"
+            },
+            {
+                "name": "Shady Paratroopa"
+            },
+            {
+                "name": "Dark Koopa"
+            },
+            {
+                "name": "Dark Parakoopa"
+            },
+            {
+                "name": "Koopatrol"
+            },
+            {
+                
+            }
+        ]
     }
 ]
