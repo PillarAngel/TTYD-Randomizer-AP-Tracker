@@ -26,6 +26,11 @@
                 "chest_opened_img": "/images/items/PeekabooDim.png"
             },
             {
+                "name": "Hyper Paragoomba",
+                "chest_unopened_img": "/images/items/Peekaboo.png",
+                "chest_opened_img": "/images/items/PeekabooDim.png"
+            },
+            {
                 "name": "Hyper Spiky Goomba",
                 "chest_unopened_img": "/images/items/Peekaboo.png",
                 "chest_opened_img": "/images/items/PeekabooDim.png"
