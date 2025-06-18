@@ -1038,8 +1038,8 @@
             {
                 "name": "Tattlesanity on",
                 "img": "images/items/Peekaboo.png",
-                "codes": "TattlesanityOff, Tattlesanity",
-                "inherit_codes":false
+                "codes": "TattlesanityOn, Tattlesanity",
+                "inherit_codes": false
             }
         ]
     },

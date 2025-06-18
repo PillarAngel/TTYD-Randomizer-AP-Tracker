@@ -542,6 +542,15 @@
                         "visibility_rules": [""],
                         "access_rules": ["[$stars|5]"],
                         "item_count": 1
+                    },
+                    {
+                        "ref": "Tattle Log/Gloomba"
+                    },
+                    {
+                        "ref": "Tattle Log/Paragloomba"
+                    },
+                    {
+                        "ref": "Tattle Log/Spiky Gloomba"
                     }
                 ],
                 "map_locations": [
@@ -1694,13 +1703,19 @@
                         "item_count": 1
                     },
                     {
-                        "ref": "@Tattle Log/Goomba"
+                        "ref": "Tattle Log/Goomba"
                     },
                     {
-                        "ref": "@Tattle Log/Paragoomba"
+                        "ref": "Tattle Log/Paragoomba"
                     },
                     {
-                        "ref": "@Tattle Log/Spiky Goomba"
+                        "ref": "Tattle Log/Spiky Goomba"
+                    },
+                    {
+                        "ref": "Tattle Log/Koopa Troopa"
+                    },
+                    {
+                        "ref": "Tattle Log/Paratroopa"
                     }
                 ],
                 "map_locations": [
@@ -2313,6 +2328,9 @@
                         "visibility_rules": [""],
                         "access_rules": ["$yoshi,Flurrie,SuperHammer"],
                         "item_count": 1
+                    },
+                    {
+                        "ref": "Tattle Log/Goomba"
                     }
 		],
                 "map_locations": [
@@ -2589,6 +2607,15 @@
                         "visibility_rules": [""],
                         "access_rules": ["[PlaneCurse],$HRGlvl2","SuperBoots,SuperHammer"],
                         "item_count": 1
+                    },
+                    {
+                        "ref": "Tattle Log/Goomba"
+                    },
+                    {
+                        "ref": "Tattle Log/Paragoomba"
+                    },
+                    {
+                        "ref": "Tattle Log/Spiky Goomba"
                     }
 		],
                 "map_locations": [
@@ -2691,6 +2718,18 @@
                         "visibility_rules": [""],
                         "access_rules": [""],
                         "item_count": 1
+                    },
+                    {
+                        "ref": "Tattle Log/Goomba"
+                    },
+                    {
+                        "ref": "Tattle Log/Paragoomba"
+                    },
+                    {
+                        "ref": "Tattle Log/Spiky Goomba"
+                    },
+                    {
+                        "ref": "Tattle Log/Koopa Troopa"
                     }
 		],
                 "map_locations": [
@@ -2887,6 +2926,21 @@
                         "visibility_rules": [""],
                         "access_rules": ["$htcastle,PaperCurse,PlaneCurse,Koops,CastleKey4","$htcastle,PaperCurse,PlaneCurse,CastleKey4,[Koops],$yoshi,Bobbery"],
                         "item_count": 1
+                    },
+                    {
+                        "ref": "Tattle Log/Goomba"
+                    },
+                    {
+                        "ref": "Tattle Log/Paragoomba"
+                    },
+                    {
+                        "ref": "Tattle Log/Spiky Goomba"
+                    },
+                    {
+                        "ref": "Tattle Log/Koopa Troopa"
+                    },
+                    {
+                        "ref": "Tattle Log/Paratroopa"
                     }
 		],
                 "map_locations": [
@@ -3177,6 +3231,15 @@
                         "visibility_rules": [""],
                         "access_rules": ["$tube,Flurrie,SuperBoots"],
                         "item_count": 1
+                    },
+                    {
+                        "ref": "Tattle Log/Hyper Goomba"
+                    },
+                    {
+                        "ref": "Tattle Log/Hyper Paragoomba"
+                    },
+                    {
+                        "ref": "Tattle Log/Hyper Spiky Goomba"
                     }
 		],
                 "map_locations": [
@@ -4039,6 +4102,9 @@
                         "visibility_rules": [""],
                         "access_rules": ["UltraBoots,Flurrie,StationKey1,StationKey2,$tube"],
                         "item_count": 1
+                    },
+                    {
+                        "ref": "Tattle Log/Goomba"
                     }
 		],
                 "map_locations": [
