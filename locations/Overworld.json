@@ -1151,7 +1151,7 @@
                 "overlay_background": "#000000",
                 "visibility_rules": ["Ch2"],
                 "access_rules": [
-                    "Flurrie,$bogglywoods"
+                    "Flurrie,$bogglywoods", "Flurrie,[$bogglywoods],$HRGlvl2"
                 ],
                 "sections": [
                     {
@@ -1451,7 +1451,7 @@
                 "overlay_background": "#000000",
                 "visibility_rules": ["Ch2"],
                 "access_rules": [
-                    "$bogglywoods,PlaneCurse"
+                    "$bogglywoods,PlaneCurse", "[$bogglywoods],$HRGlvl2,PlaneCurse"
                 ],
                 "sections": [
                     {
