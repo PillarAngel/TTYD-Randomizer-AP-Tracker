@@ -1389,7 +1389,7 @@
                 "overlay_background": "#000000",
                 "visibility_rules": ["Ch2"],
                 "access_rules": [
-                    "Flurrie,$bogglywoods,$tenpunis"
+                    "Flurrie,$bogglywoods,$tenpunis","Flurrie,[$bogglywoods],$HRGlvl2,$tenpunis"
                 ],
                 "sections": [
                     {
