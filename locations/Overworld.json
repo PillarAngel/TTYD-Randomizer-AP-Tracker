@@ -4938,7 +4938,7 @@
                     {
                         "name": "Goal: Bonetail",
                         "visibility_rules": ["defeat_bonetail"],
-                        "access_rules": ["$pit,$stars|5","[$pit],$stars|5,$HRGlvl1,Flurrie"],
+                        "access_rules": ["$pit,$chapters|5","[$pit],$chapters|5,$HRGlvl1,Flurrie"],
                         "item_count": 1
                     }
 		],
