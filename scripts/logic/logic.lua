@@ -1,8 +1,8 @@
 STARS = {"DiamondStar", "EmeraldStar", "GoldStar", "RubyStar", "SapphireStar", "GarnetStar", "CrystalStar"}
-STAR_LOCATIONS = {"@Hooktail's Castle Hooktail's Room - Diamond Star", "@Great Tree Entrance - Emerald Star",
-"@Glitzville Arena - Gold Star", "@Creepy Steeple Upper Room - Ruby Star",
-"@Pirate's Grotto Cortez' Hoard - Sapphire Star", "@Poshley Heights Sanctum Altar - Garnet Star",
-"@X-Naut Fortress Boss Room - Crystal Star"}
+STAR_LOCATIONS = {"Hooktail's Castle Hooktail's Room - Diamond Star", "Great Tree Entrance - Emerald Star",
+"Glitzville Arena - Gold Star", "Creepy Steeple Upper Room - Ruby Star",
+"Pirate's Grotto Cortez' Hoard - Sapphire Star", "Poshley Heights Sanctum Altar - Garnet Star",
+"X-Naut Fortress Boss Room - Crystal Star"}
 
 function stars(AMOUNT)
 	AMOUNT = tonumber(AMOUNT)
