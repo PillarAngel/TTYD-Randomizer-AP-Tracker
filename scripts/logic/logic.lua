@@ -94,7 +94,7 @@ function fahr_outpost()
 	end
 
 function pirates_grotto()
-	return has("Bobbery") and has("SkullGem") and (yoshi()) and has("SuperBoots") and keelhaul_key()
+	return has("Bobbery") and has("SkullGem") and (yoshi()) and has("SuperBoots")
 	end
 
 function poshley_heights() -- General regional access to Poshley Heights, not the Sanctum.
