@@ -1,4 +1,8 @@
 STARS = {"DiamondStar", "EmeraldStar", "GoldStar", "RubyStar", "SapphireStar", "GarnetStar", "CrystalStar"}
+STAR_LOCATIONS = {"@Hooktail's Castle Hooktail's Room - Diamond Star", "@Great Tree Entrance - Emerald Star",
+"@Glitzville Arena - Gold Star", "@Creepy Steeple Upper Room - Ruby Star",
+"@Pirate's Grotto Cortez' Hoard - Sapphire Star", "@Poshley Heights Sanctum Altar - Garnet Star",
+"@X-Naut Fortress Boss Room - Crystal Star"}
 
 function stars(AMOUNT)
 	AMOUNT = tonumber(AMOUNT)
@@ -6,6 +10,18 @@ function stars(AMOUNT)
 	local count = 0
 	for _, item in pairs(STARS) do
 		if has(item) then
+			count = count + 1
+		end
+	end
+return count >= req
+end
+
+function chapters(AMOUNT)
+	AMOUNT = tonumber(AMOUNT)
+	local req = AMOUNT
+	local count = 0
+	for _, location in pairs(STAR_LOCATIONS) do
+		if can_reach(location) then
 			count = count + 1
 		end
 	end
