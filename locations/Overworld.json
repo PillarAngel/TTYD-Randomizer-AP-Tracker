@@ -2460,7 +2460,8 @@
                         "name": "Petalburg Eastside - Mega Rush P",
                         "visibility_rules": [""],
                         "access_rules": ["PaperCurse","{}"],
-                        "item_count": 1
+                        "item_count": 1,
+                        "inspectable_sequence_break":true
                     },
                     {
                         "name": "Petalburg Eastside - Star Piece",
@@ -3122,7 +3123,8 @@
                         "name": "Twilight Trail Fallen Tree - Shop Key",
                         "visibility_rules": [""],
                         "access_rules": ["$tube","Koops","{}"],
-                        "item_count": 1
+                        "item_count": 1,
+                        "inspectable_sequence_break":true
                     },
                     {
                         "name": "Twilight Trail Fallen Tree - Star Piece 1",
@@ -3678,7 +3680,8 @@
                         "name": "Pirate's Grotto Gate Handle Room - Gate Handle",
                         "visibility_rules": [""],
                         "access_rules": ["$yoshi,Bobbery,BoatCurse","{}"],
-                        "item_count": 1
+                        "item_count": 1,
+                        "inspectable_sequence_break":true
                     },
                     {
                         "name": "Pirate's Grotto Gate Handle Room - Shine Sprite",
