@@ -1,4 +1,11 @@
 STARS = {"DiamondStar", "EmeraldStar", "GoldStar", "RubyStar", "SapphireStar", "GarnetStar", "CrystalStar"}
+STAR_LOCATIONS = {"@Magical Map/Hooktail's Castle/Hooktail's Castle Hooktail's Room - Diamond Star",
+"@Magical Map/Great Tree/Great Tree Entrance - Emerald Star",
+"@Magical Map/Glitzpit/Glitzville Arena - Gold Star",
+"@Magical Map/Creepy Steeple/Creepy Steeple Upper Room - Ruby Star",
+"@Magical Map/Pirate's Grotto/Pirate's Grotto Cortez' Hoard - Sapphire Star",
+"@Magical Map/Poshley Heights/Poshley Heights Sanctum Altar - Garnet Star",
+"@Magical Map/X-Naut Fortress/X-Naut Fortress Boss Room - Crystal Star"}
 
 function stars(AMOUNT)
 	AMOUNT = tonumber(AMOUNT)
@@ -6,6 +13,18 @@ function stars(AMOUNT)
 	local count = 0
 	for _, item in pairs(STARS) do
 		if has(item) then
+			count = count + 1
+		end
+	end
+return count >= req
+end
+
+function chapters(AMOUNT)
+	AMOUNT = tonumber(AMOUNT)
+	local req = AMOUNT
+	local count = 0
+	for _, location in pairs(STAR_LOCATIONS) do
+		if can_reach(location) then
 			count = count + 1
 		end
 	end
@@ -75,7 +94,7 @@ function fahr_outpost()
 	end
 
 function pirates_grotto()
-	return has("Bobbery") and has("SkullGem") and (yoshi()) and has("SuperBoots") and keelhaul_key()
+	return has("Bobbery") and has("SkullGem") and (yoshi()) and has("SuperBoots")
 	end
 
 function poshley_heights() -- General regional access to Poshley Heights, not the Sanctum.

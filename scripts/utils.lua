@@ -8,6 +8,15 @@ function has(item, amount)
 	end
 end
 
+function can_reach(location_code)
+    local location = Tracker:FindObjectForCode(location_code)
+    if location then
+        return location.AccessibilityLevel >= AccessibilityLevel.Normal
+    else
+        return false
+    end
+end
+
 function toggle_item(code)
     local active = Tracker:FindObjectForCode(code).Active
     code = code
