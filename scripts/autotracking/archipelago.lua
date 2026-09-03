@@ -167,7 +167,7 @@ function onMapChange(key, value, old)
     local newObject
 
     if key == cur_room then
-    if key ~= nil then
+    if key ~= nil and newCode ~= nil then
         newObject = Tracker:FindObjectForCode(newCode)
 
 
